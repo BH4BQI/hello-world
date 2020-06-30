@@ -1,3 +1,18 @@
 help 1
 thank you 
 07/01
+
+3001 - more modify in emacs
+
+C-x C-f open a file
+C-x C-s save the file
+
+as I modify the file in git repo, so the system will auto version it with modified 
+
+Use C-c C-c to commit the change/modification with comments
+
+Shift +p to call the push option then hit the p again, the magit will run the git push command for you.
+
+
+
+
